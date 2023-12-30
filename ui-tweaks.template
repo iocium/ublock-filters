@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: Matthew Gall: UI Tweaks
+! Title: Iocium: uBlock Filters (UI Tweaks)
 ! Last modified: %timestamp%
 ! Expires: 6 hours
 
-%include src:instagram.filter%
-%include src:twitter.filter%
+%include iocium:ui-tweaks/instagram.filter%
+%include iocium:ui-tweaks/twitter.filter%
