@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Title: Matthew Gall: UI Tweaks
+! Last modified: %timestamp%
+! Expires: 6 hours
+
+%include src:instagram.filter%
+%include src:twitter.filter%
