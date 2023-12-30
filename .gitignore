@@ -1,3 +1,6 @@
 # direnv
 .direnv/
 .envrc
+
+# app specific
+output/*.txt
