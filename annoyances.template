@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: Iocium: uBlock Filters (UI Tweaks)
+! Title: MalwareWarden - Annoyances
 ! Last modified: %timestamp%
 ! Expires: 6 hours
 
-%include iocium:ui-tweaks/instagram.filter%
-%include iocium:ui-tweaks/twitter.filter%
+%include iocium:annoyances/instagram.filter%
+%include iocium:annoyances/twitter.filter%
