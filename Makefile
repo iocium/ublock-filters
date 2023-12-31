@@ -3,4 +3,4 @@ install:
 	@pip install -r requirements.txt
 
 build:
-	@flrender -i iocium=. ui-tweaks.template output/ui-tweaks.txt
+	@flrender -i iocium=. annoyances.template output/annoyances.txt
