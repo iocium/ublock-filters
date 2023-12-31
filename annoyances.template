@@ -3,5 +3,5 @@
 ! Last modified: %timestamp%
 ! Expires: 6 hours
 
-%include iocium:annoyances/instagram.filter%
-%include iocium:annoyances/twitter.filter%
+%include malwarewarden:annoyances/instagram.filter%
+%include malwarewarden:annoyances/twitter.filter%

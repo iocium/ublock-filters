@@ -3,4 +3,4 @@ install:
 	@pip install -r requirements.txt
 
 build:
-	@flrender -i iocium=. annoyances.template public/annoyances.txt
+	@flrender -i malwarewarden=. annoyances.template public/annoyances.txt
