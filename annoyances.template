@@ -3,5 +3,6 @@
 ! Last modified: %timestamp%
 ! Expires: 6 hours
 
+%include malwarewarden:annoyances/chat.google.com.filter%
 %include malwarewarden:annoyances/instagram.filter%
 %include malwarewarden:annoyances/twitter.filter%
