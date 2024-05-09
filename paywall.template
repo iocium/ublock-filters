@@ -7,4 +7,6 @@
 %include malwarewarden:paywall/australian-community-media.filter%
 %include malwarewarden:paywall/conde-nast.filter%
 %include malwarewarden:paywall/cox-first-media.filter%
+%include malwarewarden:paywall/crain-communications.filter%
+%include malwarewarden:paywall/gedi-it.filter%
 %include malwarewarden:paywall/general.filter%
