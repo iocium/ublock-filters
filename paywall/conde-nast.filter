@@ -1,0 +1,2 @@
+/journey/compiler/build-*.js$script,~third-party,domain=architecturaldigest.com|bonappetit.com|cntraveler.com|epicurious.com|gq.com|newyorker.com|vanityfair.com|vogue.co.uk|vogue.com|voguebusiness.com|wired.com
+voguebusiness.com##+js(cookie-remover, userId)

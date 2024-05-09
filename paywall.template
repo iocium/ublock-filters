@@ -3,4 +3,8 @@
 ! Last modified: %timestamp%
 ! Expires: 6 hours
 
+%include malwarewarden:paywall/arizent.filter%
+%include malwarewarden:paywall/australian-community-media.filter%
+%include malwarewarden:paywall/conde-nast.filter%
+%include malwarewarden:paywall/cox-first-media.filter%
 %include malwarewarden:paywall/general.filter%
