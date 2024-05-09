@@ -4,3 +4,4 @@ install:
 
 build:
 	@flrender -i malwarewarden=. annoyances.template public/annoyances.txt
+	@flrender -i malwarewarden=. paywall.template public/paywall.txt

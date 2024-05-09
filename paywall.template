@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+! Title: MalwareWarden - Paywall
+! Last modified: %timestamp%
+! Expires: 6 hours
+
+%include malwarewarden:paywall/general.filter%
