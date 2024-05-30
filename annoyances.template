@@ -4,5 +4,6 @@
 ! Expires: 6 hours
 
 %include malwarewarden:annoyances/chat.google.com.filter%
-%include malwarewarden:annoyances/instagram.filter%
-%include malwarewarden:annoyances/twitter.filter%
+%include malwarewarden:annoyances/instagram.com.filter%
+%include malwarewarden:annoyances/twitter.com.filter%
+%include malwarewarden:annoyances/x.com.filter%
